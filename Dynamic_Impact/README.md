@@ -4,7 +4,7 @@ Dynamic Impact
 Introduction
 ------------
 
-Ce script est basé sur [ce script](http://forum.guerretribale.fr/showthread.php?26075-Heure-d-impact-dynamique).
+Le script *dynamic impact* est basé sur [ce script](http://forum.guerretribale.fr/showthread.php?26075-Heure-d-impact-dynamique).
 
 Ce script est un *userscript* ([installation d'un *userscript*](../README.md#Userscript))
 
