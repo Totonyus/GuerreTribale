@@ -22,3 +22,7 @@ Pour installer un *userscript*, vous devez télécharger une extension permettan
 - Opera : [Violent Monkey](https://addons.opera.com/fr/extensions/details/violent-monkey/?display=en)
 - Chrome/Chromium : [Temper Monkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=fr)
 
+<<<<<<< HEAD
+=======
+*Fichier en cours d'écriture, pour des informations immédiates, voir :  [voir la méthode 2] (http://inf0mag.blogspot.fr/2013/01/installer-script-userscript-google-chrome.html)*
+>>>>>>> dc32cdb1dd5e3a0511a0958405d396455d7bdf79
