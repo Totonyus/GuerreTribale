@@ -1,8 +1,6 @@
 // ==UserScript==
 // @name       Tribal War automatic template selection
-// @version    1
 // @match      http://*.guerretribale.fr/game.php?village=*
-// @copyright  Licence libre
 // ==/UserScript==
 
 javascript:
